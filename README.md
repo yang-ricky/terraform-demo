@@ -1,5 +1,5 @@
 ## 如何使用terraform
-* terraform init
+* 第一次下载repo之后 - terraform init
 * terraform plan
 * terraform run
 
@@ -13,5 +13,5 @@
 	* git-crypt init
 * 添加用户
 	* git-crypt add-gpg-user 541630D594D4C9A224676A4BC23F6C688AC5C147
-* 第一次下载的时候，需要运行的命令
+* 第一次下载repo之后，需要运行的命令
 	* git-crypt unlock
